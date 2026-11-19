@@ -6,3 +6,5 @@
 *.drawio.bkp
 *.drawio.dtmp
 *.mp4
+/Jobsheet12/target/
+*.tmp
