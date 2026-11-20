@@ -8,3 +8,5 @@
 *.mp4
 /Jobsheet12/target/
 *.tmp
+/JobsheetKuis2/target/
+*.env.local
